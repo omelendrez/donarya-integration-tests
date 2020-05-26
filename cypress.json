@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://donarya.herokuapp.com/",
+  "chromeWebSecurity": false
+}
