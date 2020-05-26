@@ -1,4 +1,5 @@
 {
   "baseUrl": "https://donarya.herokuapp.com/",
-  "chromeWebSecurity": false
+  "chromeWebSecurity": false,
+  "projectId": "34d1hf"
 }

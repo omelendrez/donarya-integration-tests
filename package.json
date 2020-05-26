@@ -9,7 +9,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "e2e": "cypress open"
+    "e2e": "cypress open",
+    "e2e.record": "cypress run --record --key 0507fc62-e4f1-4cd1-92ce-8fc636475507"
   },
   "author": "",
   "license": "ISC"

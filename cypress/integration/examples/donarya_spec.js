@@ -104,7 +104,5 @@ describe('Testing DonarYa', () => {
 
     cy.url()
       .should('include', '/donaciones')
-
-
   })
 })
