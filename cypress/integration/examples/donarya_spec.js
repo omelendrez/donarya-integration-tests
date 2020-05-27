@@ -36,7 +36,7 @@ describe('Testing DonarYa', () => {
         expect(user.email).to.eq('omar.melendrez@gmail.com')
         expect(user.fullName).to.eq('Omar Melendrez')
         expect(user.id).to.eq(12)
-        expect(user.username).to.eq('omarmelen')
+        expect(user.username).to.eq('omarmele')
       })
 
     // Go to the other pages
